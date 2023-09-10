@@ -13,3 +13,6 @@
 * 2. flask db migrate
 * 3. flask db upgrade
 来映射到数据库即可
+
+### v0.2
+增加登录注册邮箱验证功能
