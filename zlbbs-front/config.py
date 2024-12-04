@@ -27,9 +27,12 @@ MAIL_SERVER = "smtp.qq.com"
 MAIL_PORT = 587
 MAIL_USE_TLS = True
 # MAIL_USE_SSL = True
-MAIL_USERNAME = "Leavendger@foxmail.com"
-MAIL_PASSWORD = "dnhnjushbhqwbjee"
-MAIL_DEFAULT_SENDER = "Leavendger@foxmail.com"
+MAIL_USERNAME = "LXXXXXXXXXX@mail.com" 
+MAIL_PASSWORD = "dXXXXXXXXXXXXXXX"
+MAIL_DEFAULT_SENDER = "LLXXXXXXXXXXr@mail.com"
+//请至互联网寻找对应的邮箱发送能力解决方案。
+//参考方案：https://blog.csdn.net/hao_13/article/details/132818286
+
 
 # Celery的redis配置
 CELERY_BROKER_URL = 'redis://127.0.0.1:6379/0'
